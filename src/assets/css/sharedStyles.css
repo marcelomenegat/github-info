@@ -1,0 +1,81 @@
+.t-body {
+  position: relative;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: table !important;
+  width: 70%;
+  height: 70%;
+  margin: 5% auto 5% 15%;
+  min-width: 800px;
+  /*border: 1px solid;*/
+  border-radius: 3px;
+  background-color: white;
+  max-height: 70%;
+  
+  box-shadow: 0px 0px 3px 3px rgba(200, 200, 200, .3) !important;
+  
+}
+
+.rowGroup {
+    display: inline-flex;
+    margin: 10px;
+    width: 100%;
+}
+
+.width-full {
+    width: 100% !important;
+}
+
+/* Fonts */
+.f-small {
+  font-size: 12px !important;  
+}
+
+.f-def {
+  font-size: 14px !important;  
+}
+
+.fc-meta {
+  color: #586069 !important;
+}
+
+/* Elements */
+p {
+    margin: 0.3rem 0 0.2rem 0
+}
+
+div {
+    display: block;
+}
+
+/* Margins */
+
+.mr-10 {
+    margin-right: 10px !important;
+}
+.ml-0 {
+    margin-left: 0 !important;
+}
+.ml-10 {
+    margin-left: 10px !important;
+}
+.ml-20 {
+    margin-left: 20px !important;
+}
+.mt-0 {
+    margin-top: 0 !important;
+}
+mt-8 {
+    margin-top: 8px !important;
+}
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+.mb-5 {
+    margin-bottom: 5px !important;
+}
+
+/* Borders */
+.bb-1 {
+    border-bottom: 1px #e1e4e8 solid !important;
+}

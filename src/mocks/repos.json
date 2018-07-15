@@ -1,0 +1,360 @@
+{
+  "data": {
+    "organization": {
+      "name": "Impraise",
+      "websiteUrl": "https://www.impraise.com",
+      "url": "https://github.com/impraise",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7567947?v=4",
+      "location": "Amsterdam / New York / Lisbon",
+      "pinnedRepositories": {
+        "nodes": [
+          {
+            "name": "spawnpoint",
+            "description": "A starter template for new Rails projects",
+            "forkCount": 1,
+            "stargazers": {
+              "totalCount": 3
+            },
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Makefile"
+                },
+                {
+                  "name": "Ruby"
+                }
+              ]
+            }
+          },
+          {
+            "name": "slacker",
+            "description": "Unopinionated and minimalist starter boilerplate for real-time Slack bots",
+            "forkCount": 0,
+            "stargazers": {
+              "totalCount": 2
+            },
+            "licenseInfo": null,
+            "languages": {
+              "nodes": [
+                {
+                  "name": "JavaScript"
+                }
+              ]
+            }
+          },
+          {
+            "name": "react-mailmerge",
+            "description": "Render email templates using serverless React!",
+            "forkCount": 1,
+            "stargazers": {
+              "totalCount": 28
+            },
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "JavaScript"
+                },
+                {
+                  "name": "Shell"
+                }
+              ]
+            }
+          }
+        ],
+        "totalCount": 3
+      },
+      "repositories": {
+        "nodes": [
+          {
+            "name": "humps",
+            "description": "Underscore-to-camelCase converter (and vice versa) for strings and object keys in JavaScript.",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "forkCount": 0,
+            "updatedAt": "2014-11-20T15:20:23Z",
+            "licenseInfo": null,
+            "isFork": true,
+            "parent": {
+              "url": "https://github.com/domchristie/humps"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Ruby"
+                },
+                {
+                  "name": "JavaScript"
+                }
+              ]
+            }
+          },
+          {
+            "name": "spawnpoint",
+            "description": "A starter template for new Rails projects",
+            "stargazers": {
+              "totalCount": 3
+            },
+            "forkCount": 1,
+            "updatedAt": "2016-04-28T23:23:28Z",
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "isFork": false,
+            "parent": null,
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Makefile"
+                },
+                {
+                  "name": "Ruby"
+                }
+              ]
+            }
+          },
+          {
+            "name": "browserify-rails",
+            "description": "Browserify + Rails = CommonJS Heaven",
+            "stargazers": {
+              "totalCount": 1
+            },
+            "forkCount": 0,
+            "updatedAt": "2016-04-28T23:24:48Z",
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "isFork": true,
+            "parent": {
+              "url": "https://github.com/browserify-rails/browserify-rails"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Ruby"
+                },
+                {
+                  "name": "CSS"
+                }
+              ]
+            }
+          },
+          {
+            "name": "browserifyinc-regression-test",
+            "description": null,
+            "stargazers": {
+              "totalCount": 1
+            },
+            "forkCount": 0,
+            "updatedAt": "2016-04-28T23:23:47Z",
+            "licenseInfo": null,
+            "isFork": false,
+            "parent": null,
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Ruby"
+                },
+                {
+                  "name": "CSS"
+                },
+                {
+                  "name": "JavaScript"
+                }
+              ]
+            }
+          },
+          {
+            "name": "cool",
+            "description": "Handy emoji shortcuts for pull requests",
+            "stargazers": {
+              "totalCount": 3
+            },
+            "forkCount": 0,
+            "updatedAt": "2018-03-12T16:24:03Z",
+            "licenseInfo": null,
+            "isFork": false,
+            "parent": null,
+            "languages": {
+              "nodes": [
+                {
+                  "name": "CSS"
+                },
+                {
+                  "name": "JavaScript"
+                }
+              ]
+            }
+          },
+          {
+            "name": "omniauth-saml",
+            "description": "A generic SAML strategy for OmniAuth",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "forkCount": 1,
+            "updatedAt": "2016-05-23T12:31:43Z",
+            "licenseInfo": {
+              "name": "Other",
+              "spdxId": null
+            },
+            "isFork": true,
+            "parent": {
+              "url": "https://github.com/omniauth/omniauth-saml"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Ruby"
+                }
+              ]
+            }
+          },
+          {
+            "name": "ruby-saml",
+            "description": "SAML SSO for Ruby",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "forkCount": 0,
+            "updatedAt": "2016-05-31T08:11:28Z",
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "isFork": true,
+            "parent": {
+              "url": "https://github.com/onelogin/ruby-saml"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Ruby"
+                }
+              ]
+            }
+          },
+          {
+            "name": "shorty",
+            "description": null,
+            "stargazers": {
+              "totalCount": 0
+            },
+            "forkCount": 23,
+            "updatedAt": "2015-04-23T15:07:14Z",
+            "licenseInfo": null,
+            "isFork": true,
+            "parent": {
+              "url": "https://github.com/gymia/shorty"
+            },
+            "languages": {
+              "nodes": []
+            }
+          },
+          {
+            "name": "slacker",
+            "description": "Unopinionated and minimalist starter boilerplate for real-time Slack bots",
+            "stargazers": {
+              "totalCount": 2
+            },
+            "forkCount": 0,
+            "updatedAt": "2018-02-22T18:48:11Z",
+            "licenseInfo": null,
+            "isFork": false,
+            "parent": null,
+            "languages": {
+              "nodes": [
+                {
+                  "name": "JavaScript"
+                }
+              ]
+            }
+          },
+          {
+            "name": "time_difference",
+            "description": "The missing Ruby method to print out time difference (duration) in year, month, week, day, hour, minute, and second.",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "forkCount": 0,
+            "updatedAt": "2017-03-03T13:36:48Z",
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "isFork": true,
+            "parent": {
+              "url": "https://github.com/tmlee/time_difference"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Ruby"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Clean-Swift-Templates",
+            "description": "Xcode templates for a clean architecture with Swift",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "forkCount": 0,
+            "updatedAt": "2018-01-16T09:55:37Z",
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "isFork": true,
+            "parent": {
+              "url": "https://github.com/nicolas-prs/Clean-Swift-Templates"
+            },
+            "languages": {
+              "nodes": [
+                {
+                  "name": "Makefile"
+                }
+              ]
+            }
+          },
+          {
+            "name": "react-mailmerge",
+            "description": "Render email templates using serverless React!",
+            "stargazers": {
+              "totalCount": 28
+            },
+            "forkCount": 1,
+            "updatedAt": "2018-06-10T12:28:31Z",
+            "licenseInfo": {
+              "name": "MIT License",
+              "spdxId": "MIT"
+            },
+            "isFork": false,
+            "parent": null,
+            "languages": {
+              "nodes": [
+                {
+                  "name": "JavaScript"
+                },
+                {
+                  "name": "Shell"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

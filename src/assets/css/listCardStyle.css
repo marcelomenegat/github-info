@@ -1,0 +1,98 @@
+li {
+    list-style-type: none;
+    /*border-top: 1px solid gray;*/
+    min-height: 125px;    
+}
+
+li:hover {
+    background-color: rgb(248, 248, 248);
+    cursor: pointer;
+}
+
+.list-header {
+    width: 100%;
+    display: table;
+    text-align: left;
+    margin: 10px;
+}
+
+.list-content {
+    display: table;
+    text-align: left;
+    padding-left: 0px;
+}
+
+.li-block {
+    display: grid !important;
+    /*padding-left: 20px;*/
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+
+.l-line {
+   min-height: 30px;
+   /*border: 1px solid;*/
+   /*margin-bottom: 10px;*/
+}
+
+.l-line:last-of-type {
+   margin-bottom: 0 !important; 
+}
+
+
+li:first-of-type {
+    border-top: 1px #e1e4e8 solid !important;
+}
+
+.repo-name  {
+    font-style: inherit;    
+    margin: 0.3rem 0 0.2rem 0; /* 5px */
+}
+
+.ic {
+    display: inline-block;
+    vertical-align: text-top;
+    vertical-align: text-bottom;
+    width: 1rem; /* 16px */
+    height: 1rem;
+}
+
+.ic-star {
+    background:url(../icons/star.svg) left top no-repeat; 
+}
+
+.ic-branch {
+    background:url(../icons/git-branch.svg) left top no-repeat; 
+}
+
+.ic-law {
+    background:url(../icons/law.svg) left top no-repeat;
+}
+
+.repo-language-color {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.lang {
+    background-color: #ccc;  
+}
+
+.pinned-repo-meta {
+    display: inline-block;
+}
+
+.pinned-repo-meta {
+    margin-left: 16px;
+}
+
+.subref {
+    font: 0.75em "Sans-serif";
+    color: gray;
+    margin: 0;
+}

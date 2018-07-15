@@ -1,0 +1,53 @@
+{
+  organization(login:"impraise") {    
+    name
+    websiteUrl
+    url
+    avatarUrl
+    location
+    pinnedRepositories(first: 3) {
+      nodes {
+        name
+        description
+        forkCount
+        stargazers(first:1) {
+          totalCount
+        }
+        licenseInfo {
+          name
+          spdxId
+        }
+        languages(first: 3) {
+          nodes {            
+            name
+          }
+        }
+      }
+      totalCount      
+    }
+    repositories(first: 20){
+      nodes {
+        name
+        description        
+        stargazers(first:1) {
+          totalCount
+        }
+        forkCount
+        updatedAt
+        licenseInfo {
+          name
+          spdxId
+        }
+      	isFork      
+        parent {          
+          url          
+        }
+        languages(first: 3) {
+          nodes {
+            name
+          }
+        }
+      }
+    }
+  }
+}
